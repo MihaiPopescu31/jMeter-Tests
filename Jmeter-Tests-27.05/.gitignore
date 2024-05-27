@@ -1,0 +1,5 @@
+# Ignoră fișierele .class generate de Java
+*.class
+
+# Ignoră directorul target
+target/
