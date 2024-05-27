@@ -1,5 +1,1 @@
-# Ignor files .class generate from Java
-*.class
 
-# Ignor the directory target
-target/
