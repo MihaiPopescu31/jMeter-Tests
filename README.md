@@ -1,4 +1,4 @@
-# OpenWeatherMap, Chuck Norris, and Google.com Load Test using Apache JMeter
+# OpenWeatherMap, Chuck Norris jokes, and Google.com Load Test using Apache JMeter
 
 This JMeter project performs load testing on two different APIs and one website: the OpenWeatherMap API to fetch current weather data for Sibiu, Romania; the Chuck Norris API to retrieve sports-related jokes; and the Google.com website to measure response times. The test is configured to run with 5 concurrent users and includes elements for managing cookies and cache, as well as for visualizing and summarizing the results.
 
