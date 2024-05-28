@@ -45,7 +45,7 @@ Create the test with the specified number of users and ramp-up period, complete 
   
 Run the test to see the weather for Sibiu, Romania, and verify that the test executes successfully.
 
-![image](https://github.com/MihaiPopescu31/jMeter-Tests/assets/138394009/4fb8c4fc-3276-4524-bbdc-5bef764124c0)
+![image](https://github.com/MihaiPopescu31/jMeter-Tests/assets/138394009/be4177ed-9e00-47e5-8949-c6d7e1fc6622)
 
 The response times are also good, without any errors.
 
